@@ -15,6 +15,9 @@
     "clear E2",
     "unflag F2",
     "flag F3",
-    "clear F2"
+    "clear F2",
+    "flag F1",
+    "clear G1",
+    "clear G2"
   ]
 }
