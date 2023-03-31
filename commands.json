@@ -18,6 +18,7 @@
     "clear F2",
     "flag F1",
     "clear G1",
-    "clear G2"
+    "clear G2",
+    "end"
   ]
 }
